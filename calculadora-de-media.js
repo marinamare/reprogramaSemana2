@@ -20,3 +20,5 @@ if (resultado >= 7) {
     } else { //if (7> resultado >= 5) {
         console.log (`Sua média foi: ${resultado}. Atenção, você está de recuperação!`)
     }
+
+    // 
