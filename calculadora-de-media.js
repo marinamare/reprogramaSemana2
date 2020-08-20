@@ -1,6 +1,6 @@
 const input = require ("readline-sync")
 
-console.log('== Calculadora de médias! ==')
+console.log('== Vamos calcular sua média? ==')
 
 const nota1 = parseFloat (input.question ('qual foi a sua primeira nota?'))
 const nota2 = parseFloat (input.question ('qual foi a sua segunda nota?'))
